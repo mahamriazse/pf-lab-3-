@@ -10,7 +10,7 @@
 -mark them done\
 -remove the tasks when marked
 
-_thanks for visiting the app_\
+_thanks for visiting the app_
 
 ***ANNOUNCEMENT***\
 ***more updates incoming***
