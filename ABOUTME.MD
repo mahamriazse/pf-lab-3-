@@ -1,3 +1,3 @@
 ## NAME -  *Maham Riaz* 
-## DEGREE - *Software Engineering* 
+## DEGREE - *Software Engineering*  
 ## HOBBY - *Painting*  
