@@ -1,16 +1,12 @@
-# TO DO app
+# PF LAB 3_25K-3000
 
-### Steps To Use 
-1. open the app
-2. add your task
-3. update you tasks
- 
-### Features
--add new tasks\
--mark them done\
--remove the tasks when marked
+ABOUT ME
 
-_thanks for visiting the app_
+I'm maham riaz student at fast nuces doing  software engineering
 
-***ANNOUNCEMENT***\
-***more updates incoming***
+PROGRAMMING INTERESTS
+
+-Enjoy learning about new algorithms and data structures\
+-writing simple program in C\
+-learning how code works behnid the scene 
+
