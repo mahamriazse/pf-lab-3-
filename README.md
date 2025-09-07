@@ -5,7 +5,7 @@
 2. add your task
 3. update you tasks
  
-### Details
+### Features
 -add new tasks\
 -mark them done\
 -remove the tasks when marked
